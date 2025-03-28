@@ -1,2 +1,2 @@
 # BigDataAnalysis
-Sir, please find here are the codes we've been analyzing for the presentation. 
+Sir, please find here the codes that we've been analyzing for the presentation. 
